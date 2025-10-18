@@ -1,5 +1,4 @@
-# 8051-Squarewave
-# SQUARE WAVE
+# 8051 - SQUARE WAVE
 
 
 ## AIM:
@@ -35,6 +34,9 @@ void main()
 ```
 
 ### OUTPUT:
+
+![to edit](https://github.com/user-attachments/assets/7d28b679-e591-4c97-ada6-d08d00431cd9)
+
 
 
 ### RESULT:
