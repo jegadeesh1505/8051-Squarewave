@@ -9,7 +9,7 @@ Write a 8051 c program to generate a square wave with frequency of 50khz
 - Keil µVision Software
 
 ## PROGRAM:
-```
+```c
 #include <reg51.h>
 
 sbit sqWave = P1^0;
